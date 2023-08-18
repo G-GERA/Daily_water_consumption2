@@ -1,0 +1,60 @@
+#plus{
+    margin-right:900px;
+    border-radius:25px;
+    width:50px;
+    height:50px;
+    font-size:30px;
+    background-color:#BBDEFB;
+  }
+  
+  #minus{
+    margin-right:900px;
+    border-radius:25px;
+    width:50px;
+    height:50px;
+    font-size:35px;
+    background-color:#BBDEFB;
+  }
+  #cup5{
+    visibility:hidden;
+  }
+  #cup6{
+    visibility:hidden;
+  }
+  #cup7{
+    visibility:hidden;
+  }
+  #cup8{
+    visibility:hidden;
+  }
+  #cup9{
+    visibility:hidden;
+  }
+  #cup10{
+    visibility:hidden;
+  }
+  h1
+  {
+    color: black;
+  }
+  h2
+  {
+    color: black;
+  }
+  h4
+  {
+    color: black;
+  }
+  h3
+  {
+    color: black;
+  }
+  h5
+  {
+    color: black;
+  }
+
+  #badge1
+  {
+    visibility: hidden;
+  }
